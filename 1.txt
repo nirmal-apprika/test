@@ -19,8 +19,16 @@ nir2
 97
 98
 nirmal branch982.4
+<<<<<<< HEAD
 
 2.10
 
 
 m1
+=======
+nirmal branch982.4
+nirmal branch982.6
+55
+sdsd
+2.10
+>>>>>>> 538ef02d23431b08c3db1e7367841dff379c2749
