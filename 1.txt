@@ -32,5 +32,9 @@ nirmal branch982.6
 sdsd
 2.10
 nirmal change
+<<<<<<< HEAD
 11
 12
+=======
+11
+>>>>>>> 7b8ff8f617216c6300e82db75f561bcb6b611b2c
