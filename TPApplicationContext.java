@@ -47,7 +47,7 @@ public class TPApplicationContext {
 		String name; // mmm
 
 		/**
-		 * Instantiates a new sPRIN g_ beans.
+		 * Instantiates a new sPRIN g_ beans....
 		 *
 		 * @param name the name
 		 */
