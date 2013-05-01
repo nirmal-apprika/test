@@ -44,7 +44,7 @@ public class TPApplicationContext {
 		NIMBLER_APPS_BEAN("nimblerApps"),
 		GTFS_DATA_SERVICE("gtfsDataService"),
 		FLURRY_MANAGEMENT_SERVICE("flurryManagementService");
-		String name;
+		String name; // mmm
 
 		/**
 		 * Instantiates a new sPRIN g_ beans.
