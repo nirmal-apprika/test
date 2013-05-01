@@ -20,8 +20,12 @@ public class TPApplicationContext {
 	/**
 	 * The Enum SPRING_BEANS.
 	 */
+<<<<<<< HEAD
 	public enum SPRING_BEANS{
 	//hello
+=======
+	public enum SPRING_BEANS{ //test
+>>>>>>> nirmal1
 		MONGO_OPERATION_TEMPLATE("mongoOpetation"),
 		PERSISTANCE_SERVICE("persistenceService"),
 		EVENT_LOGGING_SERVICE("tpEventLoggingService"),
