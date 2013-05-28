@@ -148,3 +148,4 @@ public class TPApplicationContext {
 		return getInstance().getBean(beanName);
 	}
 }
+sd
