@@ -79,7 +79,7 @@ public class TPApplicationContext {
 	}
 
 	/** The ctxt. */
-	private static TPApplicationContext ctxt = new TPApplicationContext(); //test5
+	private static TPApplicationContext ctxt = new TPApplicationContext(); //test2
 
 	/** The main ctxt. */
 	ClassPathXmlApplicationContext mainCtxt;
